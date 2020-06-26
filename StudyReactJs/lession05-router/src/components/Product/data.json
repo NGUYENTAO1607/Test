@@ -1,0 +1,13 @@
+[
+    {"id":1,"ten":"iphone s7" ,"gia" :100000},
+    {"id":2,"ten":"Samsung Note 7", "gia" :3340000},
+    {"id":3,"ten":"iphone S4s" ,"gia" :200000},
+    {"id":4,"ten":"Samsung Note 8", "gia" :40000},
+
+    {"id":5,"ten":"iphone s9" ,"gia" :9100000},
+    {"id":6,"ten":"Samsung Note 7", "gia" :3340000},
+
+    {"id":7,"ten":"iphone s7" ,"gia" :100000},
+    {"id":8,"ten":"Samsung Note 7", "gia" :3340000}
+
+]
