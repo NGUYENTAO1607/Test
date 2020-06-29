@@ -1,0 +1,13 @@
+.list-item{
+    font-weight: bold;
+    padding-left: 32px;
+    color: blue;
+    margin : 10px;
+    background-color:#EEE
+}
+.list-item-transparent{
+    background-color:transparent
+}
+.list-item-pattern{
+    background-image: url()
+}
