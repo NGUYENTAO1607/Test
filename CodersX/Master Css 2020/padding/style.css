@@ -9,5 +9,19 @@
     background-color:transparent
 }
 .list-item-pattern{
-    background-image: url()
+    background-image: url(./abstract-geometric-hipster-fashion-design-260nw-531335971.webp);
+    background-size: 20%;
+    height : 50px;
+    background-repeat: repeat
+
+}
+.list-item-image{
+ 
+        background-image: url(./white-transparent-leaf-on-mirror-260nw-1029171697.webp);
+        /* background-size: 20%; */
+        height : 50px;
+        background-size: cover;
+        background-position: 10px;
+        background-attachment: fixed;
+    
 }
