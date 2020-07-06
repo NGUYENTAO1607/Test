@@ -36,13 +36,6 @@ function App() {
         {/* <LatestProduct></LatestProduct> */}
         <Blog></Blog>
         <Footer></Footer>
-
-
-
-
-
-
-
       </div>
     </Router>
 

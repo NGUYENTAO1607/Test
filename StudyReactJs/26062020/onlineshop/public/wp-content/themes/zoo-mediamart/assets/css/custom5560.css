@@ -1,0 +1,11 @@
+/* Custom css */
+.product .wrap-product-text{
+	padding-bottom: 15px !important;
+}
+.product .price{
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.cvca-wrapper-products-shortcode.layout-list .zoo-cw-wrap-shop{
+	margin-top: 8px !important;
+}

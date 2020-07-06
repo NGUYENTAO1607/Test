@@ -9,8 +9,7 @@ class RouterURL extends Component {
         return (
 
             <div>
-                <Switch>
-                    
+                <Switch>    
                     <Route exact path="/" component={Home}></Route>
                     <Route path="/lien-he" component={Contact}></Route>
                     <Route path="/san-pham" component={Product}></Route>
